@@ -9,3 +9,5 @@
    [视频链接](https://www.bilibili.com/video/BV1214y1X7Aq/?vd_source=676a346c6b9766a9134872000e02ce7d)
 
    ![示意图](https://cdn.beekka.com/blogimg/asset/202308/bg2023080906.webp)
+
+3. [全球最佳人工智能AI工具聚合网站](https://www.toolai.io/zh/)
